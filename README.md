@@ -1,4 +1,4 @@
 # hello-world
 
 Hello GitHub!
-Not sure what i'm doning yet, but things are clearing up.
+Not sure what i'm doing yet, but things are clearing up.
